@@ -9,7 +9,7 @@ const space_Grotesk = Space_Grotesk({ subsets: ["latin"] });
 export const metadata: Metadata = {
 	title: "Live Chat",
 	description: "Live Chat supabase db",
-	icons: "/icon.jpg"
+	icons: "/7023964.jpg"
 };
 
 export default function RootLayout({
